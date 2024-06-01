@@ -29,13 +29,10 @@ Users should be able to:
 
 ## Screenshots
 ### Desktop view
-![Desktop screenshot](/screenshot-desktop.jpeg)
-### Desktop view empty
-![empty screenchot](/screenshot-desktop-empty.jpeg)
+![Desktop screenshot](/desktop.png)
+![empty screenchot](/anothererror.png)
 ### Desktop view error
-![error screenchot](/screenshot-desktop-error.jpeg)
-### Mobile view
-![Mobile screenshot](/screenshot-mobile.jpeg)
+![error screenchot](/errorstate.png)
 
 ### Links
 
